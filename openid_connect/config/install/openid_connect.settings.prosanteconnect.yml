@@ -1,0 +1,6 @@
+enabled: false
+settings:
+  sandbox: 'BAS'
+  client_id:
+  client_secret:
+  scopes: 'scope_all'

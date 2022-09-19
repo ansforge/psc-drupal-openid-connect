@@ -1,0 +1,10 @@
+name: OpenID Connect
+type: module
+description: A pluggable client implementation for the OpenID Connect protocol.
+core_version_requirement: ^8.8 || ^9
+package: Security
+configure: openid_connect.admin_settings
+
+version: '8.x-1.2-prosanteconnect'
+project: 'openid_connect'
+datestamp: 1661950327
