@@ -1,5 +1,4 @@
 # Pro Santé Connect : module OpenID pour Drupal
--
 
 Ce projet est un patch du [module OpenID officiel de Drupal](https://www.drupal.org/project/openid_connect) intégrant nativement une partie de la configuration de Pro Santé Connect.
 
